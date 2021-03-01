@@ -13,4 +13,4 @@ This is freeware (and will always be), should be opensource and the unique here 
 -new in version 1.0.0.18 : support pcbios/EFI mode</br>
 -new in version 1.0.0.23 : php,vbs,py files can be processed server side using php, vbs, py entries under web section</br>
 </br>
-Discuss it here : http://reboot.pro/index.php?showtopic=18488 .</br>
+Discuss it here : hhttp://reboot.pro/index.php?showtopic=18962 .</br>
